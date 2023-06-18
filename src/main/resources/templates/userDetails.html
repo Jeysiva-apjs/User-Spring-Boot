@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>User Details</title>
+<link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+	<h1>User Details</h1>
+	<table>
+		<tr>
+			<td>
+				<p>Name</p>
+			</td>
+			<td>
+				<p th:text="${user.name}"></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>Designation</p>
+			</td>
+			<td>
+				<p th:text="${user.designation}"></p>
+			</td>
+		</tr>
+				<tr>
+			<td>
+				<p>Mail ID</p>
+			</td>
+			<td>
+				<p th:text="${user.mailId}"></p>
+			</td>
+		</tr>
+				<tr>
+			<td>
+				<p>Location</p>
+			</td>
+			<td>
+				<p th:text="${user.location}"></p>
+			</td>
+		</tr>
+				<tr>
+			<td>
+				<p>Reports To</p>
+			</td>
+			<td>
+				<p th:text="${user.reportsTo}"></p>
+			</td>
+	</table>
+</body>
+</html>
+
+
