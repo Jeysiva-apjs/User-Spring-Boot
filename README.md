@@ -5,11 +5,13 @@ This application have a home page that displays a list of users.
 When a user clicks on a user's name, the application displays the user's details.
 
 # Home Page
-<img width="378" alt="mvc1" src="https://github.com/Jeysiva-apjs/User-Spring-Boot/assets/126048586/fbb75eb3-c8f4-442a-a6db-22a02369ab85">
+<img width="479" alt="mvc1" src="https://github.com/Jeysiva-apjs/User-Spring-Boot/assets/126048586/65a83a04-da0a-4199-ae47-ea11cced8371">
+
 
 # Click on a user
-<img width="332" alt="mvc1 2" src="https://github.com/Jeysiva-apjs/User-Spring-Boot/assets/126048586/42eb4615-261e-438f-a904-a0e936efc8e7">
+<img width="480" alt="mvc2" src="https://github.com/Jeysiva-apjs/User-Spring-Boot/assets/126048586/a12fb2b7-b37c-4760-8916-61b235fa6600">
+
 
 # User details
-<img width="430" alt="mvc2" src="https://github.com/Jeysiva-apjs/User-Spring-Boot/assets/126048586/446e37f8-d246-4fd0-b642-ec1884163461">
+<img width="479" alt="mvc3" src="https://github.com/Jeysiva-apjs/User-Spring-Boot/assets/126048586/7f62f1d2-783e-4c84-8641-94e1ca980b0a">
 
