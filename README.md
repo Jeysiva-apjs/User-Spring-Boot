@@ -1,7 +1,7 @@
 # User-Spring-Boot
 
 A simple MVC application using Spring Boot. 
-This application have a home page that displays a list of users. 
+This application has a home page that displays a list of users. 
 When a user clicks on a user's name, the application displays the user's details.
 
 # Home Page
