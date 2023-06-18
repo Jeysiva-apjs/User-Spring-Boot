@@ -8,7 +8,7 @@ When a user clicks on a user's name, the application displays the user's details
 <img width="479" alt="mvc1" src="https://github.com/Jeysiva-apjs/User-Spring-Boot/assets/126048586/65a83a04-da0a-4199-ae47-ea11cced8371">
 
 
-# Click on a user
+# Hover over and click on a user
 <img width="480" alt="mvc2" src="https://github.com/Jeysiva-apjs/User-Spring-Boot/assets/126048586/a12fb2b7-b37c-4760-8916-61b235fa6600">
 
 
